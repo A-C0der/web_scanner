@@ -1,0 +1,6 @@
+urllib3
+requests
+nmap
+whois
+python-whois
+argparse
